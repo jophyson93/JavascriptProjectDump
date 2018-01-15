@@ -10,5 +10,5 @@ Keyboard music. Based on the keys you press, different sounds get played.
 
 <h2>2</h2><img src="https://i.imgur.com/W2Eet0I.gif" alt="javascript1">
 
-A simple clock. And a reindeer staring off into the pink moon majestically. What more do you need... 
+A simple clock. And a reindeer majestically staring off into the pink moon. What more do you need...
 
